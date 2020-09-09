@@ -1,0 +1,2 @@
+# Mining-Crisis-Info
+Situational awareness of the rapidly changing environment in the event of disaster is vital for effective response and recovery management. The major challenges in achieving such awareness are lack of access to various sources of information and tools. In this project, we propose a hybrid method for segregating and classifying the texts received from the people who are at risk in the affected region. 
